@@ -2,7 +2,7 @@ pt:
   languageCode: pt
   languageName: Portuguese
   # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
-  # contentDir: content/en
+  # contentDir: content/i18n
 
 # Uncomment for multilingual sites, and customize the following config.
 # zh:
